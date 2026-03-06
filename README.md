@@ -25,7 +25,8 @@
 - [🌐 Network Connectivity Handbook](https://github.com/saikiran142-ind/Network-Troubleshooting.md) - CMD tools and Internet fixes.
 
 ## 📊 My GitHub Stats
-![GitHub Stats](https://vercel.appsaikiran142-ind&show_icons=true&theme=radical)
+
+![GitHub Stats](https://vercel.app[saikiran142-ind]&show_icons=true&theme=radical)
 
 ---
 
