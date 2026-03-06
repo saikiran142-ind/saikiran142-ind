@@ -28,6 +28,9 @@
 
 ![GitHub Stats]([https://vercel.app[saikiran142-ind]&show_icons=true&theme=radical)
 
+[![Saikiran's GitHub Stats](https://vercel.app)](https://github.com)
+
+
 ---
 
 ## 🌐 Connect with Me
