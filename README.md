@@ -24,13 +24,19 @@
 - [📧 Outlook Support Guide](https://github.com/saikiran142-ind/Outlook-Troubleshooting-Guide.) - Detailed fixes for 0x800... errors.
 - [🌐 Network Connectivity Handbook](https://github.com/saikiran142-ind/Network-Troubleshooting.md) - CMD tools and Internet fixes.
 
-## 📊 My GitHub Stats
 
-![GitHub Stats]([https://vercel.app[saikiran142-ind]&show_icons=true&theme=radical)
 
-[![Saikiran's GitHub Stats](https://vercel.app)](https://github.com)
+## 📊 My GitHub Activity & Stats
 
-[![Saikiran's GitHub Stats](https://vercel.app)](https://github.com)
+<p align="center">
+  <img src="https://vercel.app" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://vercel.app" alt="Top Languages" />
+</p>
+
+---
 
 
 ---
