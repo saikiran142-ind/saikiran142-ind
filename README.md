@@ -17,13 +17,11 @@
 - **Active Directory:** 👥 User Management, Password Resets, Group Policies.
 
 ## 📂 My Technical Wiki (Troubleshooting Guides)
-- [📧 Outlook Support Guide](./Outlook-Troubleshooting-Guide.md) - Detailed fixes for 0x800... errors.
-- [🌐 Network Connectivity Handbook](./Network-Troubleshooting.md) - CMD tools and Internet fixes.
-- [💻 Windows System Support](./Windows-System-Support.md) - BSOD and Performance optimization.
-- [🎫 Ticketing & Workflow](./Ticketing-Workflow.md) - Professional Incident Handling.
+- [📧 Outlook Support Guide](https://github.com/saikiran142-ind/Outlook-Troubleshooting-Guide.) - Detailed fixes for 0x800... errors.
+- [🌐 Network Connectivity Handbook](https://github.com/saikiran142-ind/Network-Troubleshooting.md) - CMD tools and Internet fixes.
 
 ## 📊 My GitHub Stats
-![GitHub Stats](https://vercel.app[saikiran142-ind]&show_icons=true&theme=radical)
+![GitHub Stats](https://vercel.appsaikiran142-ind&show_icons=true&theme=radical)
 
 ---
 
