@@ -23,7 +23,7 @@
 ## 📂 My Technical Wiki (Troubleshooting Guides)
 - [📧 Outlook Support Guide](https://github.com/saikiran142-ind/Outlook-Troubleshooting-Guide.) - Detailed fixes for 0x800... errors.
 - [🌐 Network Connectivity Handbook](https://github.com/saikiran142-ind/Network-Troubleshooting.md) - CMD tools and Internet fixes.
-- [Windows System Support]([./Windows-System-Support.md](https://github.com/saikiran142-ind/Windows-Optimization.md)) - BSOD, BitLocker, and Performance fixes.
+- [Windows System Support](https://github.com/saikiran142-ind/Windows-Optimization.md) - BSOD, BitLocker, and Performance fixes.
 
 
 
