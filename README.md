@@ -28,15 +28,9 @@
 
 ## 📊 My GitHub Activity & Stats
 
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" />
-</p>
+![Saikiran's Stats](https://vercel.app)
 
-<p align="center">
-  <img src="https://vercel.app" alt="Top Languages" />
-</p>
-
----
+![GitHub Streak](https://herokuapp.com)
 
 
 ---
