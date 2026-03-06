@@ -17,7 +17,7 @@
 - **Active Directory:** 👥 User Management, Password Resets, Group Policies.
 
 ## 📂 My Technical Wiki (Troubleshooting Guides)
-- [📧 Outlook Support Guide](./Outlook-Troubleshooting-Guide) - Detailed fixes for 0x800... errors.
+- [📧 Outlook Support Guide](./Outlook-Troubleshooting-Guide.md) - Detailed fixes for 0x800... errors.
 - [🌐 Network Connectivity Handbook](./Network-Troubleshooting.md) - CMD tools and Internet fixes.
 - [💻 Windows System Support](./Windows-System-Support.md) - BSOD and Performance optimization.
 - [🎫 Ticketing & Workflow](./Ticketing-Workflow.md) - Professional Incident Handling.
