@@ -15,6 +15,10 @@
 - **Networking:** 🌐 TCP/IP, DNS, DHCP, VPN, Wi-Fi & LAN Troubleshooting.
 - **Ticketing Tools:** 🎫 Jira Service Management, Zendesk, ServiceNow.
 - **Active Directory:** 👥 User Management, Password Resets, Group Policies.
+ ### 🛠️ Infrastructure & Security Skills
+- **Firewall Admin:** 🧱 Configuring Rules, NAT, and VPN on 'Fortinet' Firewalls.
+- **Surveillance:** 📹 **CCTV (IP & Analog)** Installation, NVR/DVR Configuration, and Maintenance.
+
 
 ## 📂 My Technical Wiki (Troubleshooting Guides)
 - [📧 Outlook Support Guide](https://github.com/saikiran142-ind/Outlook-Troubleshooting-Guide.) - Detailed fixes for 0x800... errors.
