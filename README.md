@@ -25,7 +25,7 @@
 - [🌐 Network Connectivity Handbook](https://github.com/saikiran142-ind/Network-Troubleshooting.md) - CMD tools and Internet fixes.
 - [Windows System Support](https://github.com/saikiran142-ind/Windows-Optimization.md) - BSOD, BitLocker, and Performance fixes.
 - [Printer troubleshooting guide](https://github.com/saikiran142-ind/Printer-Support.md/blob/main/README.md).- Detailed troubleshooting and installation.
-- [Curser support Guide](
+- [Curser support Guide](https://github.com/saikiran142-ind/Cursor-Troubleshooting.md). - Troubleshooting installation driver.
 
 
 
