@@ -27,6 +27,7 @@
 - [Printer troubleshooting guide](https://github.com/saikiran142-ind/Printer-Support.md/blob/main/README.md).- Detailed troubleshooting and installation.
 - [Curser support Guide](https://github.com/saikiran142-ind/Cursor-Troubleshooting.md). - Troubleshooting installation driver.
 - [Firewall support Guide](https://github.com/saikiran142-ind/Firewall-Rules.md/blob/main/README.md). - Blocking IP & Ports, Allowing apps.
+- [Active Directory Guide](https://github.com/saikiran142-ind/Active-Directory-SOP.md/blob/main/README.md). - Detailed Creating user, unloack and reset password
 
 
 ## 📊 My GitHub Activity & Stats
