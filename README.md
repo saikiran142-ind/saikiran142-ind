@@ -26,7 +26,7 @@
 - [Windows System Support](https://github.com/saikiran142-ind/Windows-Optimization.md) - BSOD, BitLocker, and Performance fixes.
 - [Printer troubleshooting guide](https://github.com/saikiran142-ind/Printer-Support.md/blob/main/README.md).- Detailed troubleshooting and installation.
 - [Curser support Guide](https://github.com/saikiran142-ind/Cursor-Troubleshooting.md). - Troubleshooting installation driver.
-
+- [Firewall support Guide](https://github.com/saikiran142-ind/Firewall-Rules.md/blob/main/README.md). - Blocking IP & Ports, Allowing apps.
 
 
 ## 📊 My GitHub Activity & Stats
