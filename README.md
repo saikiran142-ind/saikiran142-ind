@@ -1,5 +1,5 @@
 # Hi, I'm Saikiran Goud👋
-### IT Support Engineer | Troubleshooting Expert | Documentation Specialist
+### IT Support Engineer | Aspiring SOC Analyst | Experienced in Managing 41+ Endpoints | Specializing in Windows Security Monitoring, SentinelOne EDR Deployment, and Python Automation for Threat Detection.
 
 ---
 
